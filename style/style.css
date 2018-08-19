@@ -1,0 +1,96 @@
+.cont
+{
+	margin-top: 50px;
+	background-color: red;
+}
+.head
+{
+	margin-top: 10px;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+.mar
+{
+	margin-top: 20px;
+}
+.valDisp
+{
+	font-size: 60px;
+	font-family: 'Chela One', cursive;
+    text-align: center;
+}
+.cardHead
+{
+	height: 50px;
+	background-color: #1affff;
+	border-radius: 10px 10px 0px 0px;
+}
+.cardBody
+{
+	background-color: #ccffff;
+}
+.weatherReport
+{
+    margin-top: 40px;
+}
+.heading
+{
+	padding-top: 10px;
+}
+.report h3
+{
+    text-align: center;
+	font-family: 'Oswald', sans-serif;
+}
+.report
+{
+	text-align: center;
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-size: 20px;
+	border-radius: 10px 10px 0px 0px;
+}
+img
+{
+	margin-right: 5px;
+}
+a 
+{
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    float: left;
+}
+
+a:hover 
+{
+	text-decoration: none;
+    background-color: #ddd;
+    color: black;
+}
+
+.previous
+{
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.next
+{
+    background-color: #f1f1f1;
+    color: black;
+}
+
+.round
+{
+    border-radius: 50%;
+}
+.noNext
+{
+	float: left;
+}
+.footer
+{
+	margin-top: 50px;
+	height: 100px;
+	background-color: black;
+}
